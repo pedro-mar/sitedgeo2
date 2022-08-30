@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksitedgeo_2=self.webpackChunksitedgeo_2||[]).push([[1376],{1746:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/sitedgeo2/blog/tags/hello","allTagsPath":"/sitedgeo2/blog/tags","count":2}')}}]);
